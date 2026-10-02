@@ -5,7 +5,7 @@ It analyses 3,900 customer transactions to understand what customers buy, how mu
 
 ## 📊 Dashboard
 
-![Customer Shopping Behaviour Dashboard](Dashboard-Png/customer_behvaior_ds.png)
+![Customer Shopping Behaviour Dashboard](Dashboard/dashboard.png)
 
 ## 🎯 Project Objective
 Turn raw retail transaction data into clear business insights about revenue drivers, customer segments and purchasing patterns.
